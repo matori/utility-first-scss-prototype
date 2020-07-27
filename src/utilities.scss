@@ -1,9 +1,12 @@
 @use "mixins/margin-top" as mt;
 @use "mixins/font-size" as fs;
 
+
 .mt-l {
   @include mt.large
 }
+// .mt\.large { @include mt.large }
+// とすることで、ミックスインと名前の統一ができる
 
 .mt-m {
   @include mt.medium
