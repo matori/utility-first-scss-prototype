@@ -1,0 +1,7 @@
+@use "mixins/margin-top" as mt;
+@use "mixins/font-size" as fs;
+
+.component-a {
+  @include mt.large;
+  @include fs.small;
+}

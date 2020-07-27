@@ -1,0 +1,35 @@
+.component-a {
+  margin-top: 80px;
+  font-size: 12px;
+}
+
+.component-b {
+  margin-top: 50px;
+  font-size: 16px;
+}
+
+.mt-l {
+  margin-top: 80px;
+}
+
+.mt-m {
+  margin-top: 50px;
+}
+
+.mt-s {
+  margin-top: 20px;
+}
+
+.fs-l {
+  font-size: 24px;
+}
+
+.fs-m {
+  font-size: 16px;
+}
+
+.fs-s {
+  font-size: 12px;
+}
+
+/*# sourceMappingURL=style.css.map */

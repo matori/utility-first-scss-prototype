@@ -1,0 +1,23 @@
+{
+  "name": "utility-first-scss-prototype",
+  "private": true,
+  "version": "1.0.0",
+  "description": "ユーティリティ・ファーストなCSSをSCSSに持ち込むアイディア",
+  "main": "index.js",
+  "scripts": {
+    "build": "sass src/style.scss dist/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matori/utility-first-scss-prototype.git"
+  },
+  "author": "matori <pnr.matori@gmail.com> (https://github.com/matori)",
+  "license": "CC0",
+  "bugs": {
+    "url": "https://github.com/matori/utility-first-scss-prototype/issues"
+  },
+  "homepage": "https://github.com/matori/utility-first-scss-prototype#readme",
+  "devDependencies": {
+    "sass": "^1.26.10"
+  }
+}

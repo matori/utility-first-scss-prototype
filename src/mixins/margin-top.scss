@@ -1,0 +1,11 @@
+@mixin large {
+  margin-top: 80px;
+}
+
+@mixin medium {
+  margin-top: 50px;
+}
+
+@mixin small {
+  margin-top: 20px;
+}

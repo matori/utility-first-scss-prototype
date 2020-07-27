@@ -1,0 +1,26 @@
+@use "mixins/margin-top" as mt;
+@use "mixins/font-size" as fs;
+
+.mt-l {
+  @include mt.large
+}
+
+.mt-m {
+  @include mt.medium
+}
+
+.mt-s {
+  @include mt.small
+}
+
+.fs-l {
+  @include fs.large
+}
+
+.fs-m {
+  @include fs.medium
+}
+
+.fs-s {
+  @include fs.small
+}
